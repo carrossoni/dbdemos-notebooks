@@ -1,0 +1,201 @@
+customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state
+1,cust_001,35615,São Paulo,SP
+2,cust_002,69780,São Paulo,SP
+3,cust_003,41581,São Paulo,SP
+4,cust_004,45092,São Paulo,SP
+5,cust_005,32978,São Paulo,SP
+6,cust_006,29387,São Paulo,SP
+7,cust_007,62203,São Paulo,SP
+8,cust_008,24821,São Paulo,SP
+9,cust_009,51655,São Paulo,SP
+10,cust_010,34283,São Paulo,SP
+11,cust_011,16971,São Paulo,SP
+12,cust_012,51265,São Paulo,SP
+13,cust_013,25733,São Paulo,SP
+14,cust_014,43838,São Paulo,SP
+15,cust_015,67824,São Paulo,SP
+16,cust_016,53123,São Paulo,SP
+17,cust_017,22506,São Paulo,SP
+18,cust_018,50019,São Paulo,SP
+19,cust_019,37340,São Paulo,SP
+20,cust_020,58171,São Paulo,SP
+21,cust_021,61126,São Paulo,SP
+22,cust_022,19793,São Paulo,SP
+23,cust_023,65211,São Paulo,SP
+24,cust_024,78141,São Paulo,SP
+25,cust_025,40296,São Paulo,SP
+26,cust_026,51018,São Paulo,SP
+27,cust_027,27303,São Paulo,SP
+28,cust_028,71899,São Paulo,SP
+29,cust_029,32667,São Paulo,SP
+30,cust_030,45333,São Paulo,SP
+31,cust_031,65684,São Paulo,SP
+32,cust_032,78024,São Paulo,SP
+33,cust_033,13313,São Paulo,SP
+34,cust_034,98664,São Paulo,SP
+35,cust_035,45902,São Paulo,SP
+36,cust_036,89050,São Paulo,SP
+37,cust_037,44896,São Paulo,SP
+38,cust_038,70594,São Paulo,SP
+39,cust_039,54174,São Paulo,SP
+40,cust_040,30505,São Paulo,SP
+41,cust_041,29224,São Paulo,SP
+42,cust_042,69911,São Paulo,SP
+43,cust_043,36127,São Paulo,SP
+44,cust_044,51748,São Paulo,SP
+45,cust_045,25484,São Paulo,SP
+46,cust_046,92900,São Paulo,SP
+47,cust_047,86096,São Paulo,SP
+48,cust_048,97778,São Paulo,SP
+49,cust_049,15624,São Paulo,SP
+50,cust_050,22318,São Paulo,SP
+51,cust_051,31402,São Paulo,CE
+52,cust_052,52161,Brasília,PE
+53,cust_053,25813,Brasília,DF
+54,cust_054,68979,Porto Alegre,CE
+55,cust_055,70626,São Paulo,BA
+56,cust_056,90272,Rio de Janeiro,BA
+57,cust_057,76587,Belo Horizonte,PR
+58,cust_058,50646,Belo Horizonte,CE
+59,cust_059,20821,Goiânia,MG
+60,cust_060,89911,Belo Horizonte,RJ
+61,cust_061,53713,Salvador,CE
+62,cust_062,89767,Salvador,MG
+63,cust_063,51235,Curitiba,PR
+64,cust_064,91287,Brasília,DF
+65,cust_065,28737,Rio de Janeiro,CE
+66,cust_066,57250,Belo Horizonte,PR
+67,cust_067,65006,Belo Horizonte,RS
+68,cust_068,50504,São Paulo,PE
+69,cust_069,66978,Brasília,CE
+70,cust_070,95733,Salvador,RS
+71,cust_071,70992,Brasília,RJ
+72,cust_072,63554,Fortaleza,GO
+73,cust_073,26863,Belo Horizonte,PE
+74,cust_074,62318,Goiânia,DF
+75,cust_075,42204,Recife,DF
+76,cust_076,17286,Fortaleza,RJ
+77,cust_077,57690,Porto Alegre,SP
+78,cust_078,48833,Belo Horizonte,CE
+79,cust_079,42080,Fortaleza,MG
+80,cust_080,32463,Brasília,MG
+81,cust_081,67521,São Paulo,CE
+82,cust_082,73721,São Paulo,RJ
+83,cust_083,41043,Recife,DF
+84,cust_084,81978,Brasília,RS
+85,cust_085,63482,Curitiba,BA
+86,cust_086,25179,Recife,PE
+87,cust_087,97480,Curitiba,BA
+88,cust_088,67865,Recife,MG
+89,cust_089,93010,Fortaleza,RS
+90,cust_090,38376,Goiânia,CE
+91,cust_091,11980,Porto Alegre,PR
+92,cust_092,36161,Brasília,MG
+93,cust_093,34096,Curitiba,SP
+94,cust_094,12730,Fortaleza,PE
+95,cust_095,63874,Goiânia,RS
+96,cust_096,48607,Goiânia,RS
+97,cust_097,31060,Salvador,DF
+98,cust_098,39748,Recife,SP
+99,cust_099,30118,São Paulo,CE
+100,cust_100,25242,Belo Horizonte,DF
+101,cust_101,44950,Goiânia,GO
+102,cust_102,13892,Curitiba,SP
+103,cust_103,76110,Salvador,PE
+104,cust_104,88260,Rio de Janeiro,RJ
+105,cust_105,42023,Belo Horizonte,PR
+106,cust_106,81434,Brasília,PE
+107,cust_107,54463,São Paulo,BA
+108,cust_108,50217,Porto Alegre,SP
+109,cust_109,15316,Fortaleza,BA
+110,cust_110,77222,Rio de Janeiro,SP
+111,cust_111,39098,Porto Alegre,SP
+112,cust_112,98236,Porto Alegre,PE
+113,cust_113,39006,Salvador,BA
+114,cust_114,15014,São Paulo,DF
+115,cust_115,48471,Curitiba,PE
+116,cust_116,77377,Recife,CE
+117,cust_117,94334,Fortaleza,DF
+118,cust_118,91474,Fortaleza,PR
+119,cust_119,64265,Belo Horizonte,GO
+120,cust_120,49809,São Paulo,CE
+121,cust_121,69486,Porto Alegre,MG
+122,cust_122,79956,São Paulo,PR
+123,cust_123,58337,São Paulo,PR
+124,cust_124,23245,Recife,GO
+125,cust_125,48736,Recife,PE
+126,cust_126,95128,Porto Alegre,RJ
+127,cust_127,27002,Rio de Janeiro,RS
+128,cust_128,10788,Goiânia,GO
+129,cust_129,30865,Porto Alegre,MG
+130,cust_130,14810,Fortaleza,GO
+131,cust_131,86210,Porto Alegre,CE
+132,cust_132,48084,São Paulo,PR
+133,cust_133,98448,Recife,CE
+134,cust_134,51505,Salvador,CE
+135,cust_135,31872,São Paulo,BA
+136,cust_136,75044,Recife,SP
+137,cust_137,73725,Salvador,GO
+138,cust_138,94023,Porto Alegre,DF
+139,cust_139,74887,Porto Alegre,DF
+140,cust_140,68291,Curitiba,RJ
+141,cust_141,10922,Brasília,RS
+142,cust_142,42707,Rio de Janeiro,PE
+143,cust_143,32419,Belo Horizonte,SP
+144,cust_144,83551,São Paulo,GO
+145,cust_145,26500,Recife,RS
+146,cust_146,78259,Brasília,PR
+147,cust_147,39842,Porto Alegre,RJ
+148,cust_148,44796,São Paulo,BA
+149,cust_149,68010,Recife,PR
+150,cust_150,40488,Brasília,MG
+151,cust_151,71830,Goiânia,GO
+152,cust_152,72857,Porto Alegre,PE
+153,cust_153,42657,Curitiba,BA
+154,cust_154,85082,Curitiba,DF
+155,cust_155,42154,Belo Horizonte,DF
+156,cust_156,12761,São Paulo,SP
+157,cust_157,76194,Goiânia,BA
+158,cust_158,54808,Porto Alegre,CE
+159,cust_159,46676,Porto Alegre,GO
+160,cust_160,72714,Salvador,RJ
+161,cust_161,53817,Belo Horizonte,MG
+162,cust_162,43233,Recife,PR
+163,cust_163,54032,Goiânia,CE
+164,cust_164,90706,Rio de Janeiro,BA
+165,cust_165,26349,Porto Alegre,MG
+166,cust_166,96738,Recife,PE
+167,cust_167,80068,Salvador,BA
+168,cust_168,74182,Brasília,SP
+169,cust_169,72223,Curitiba,PR
+170,cust_170,14933,Porto Alegre,SP
+171,cust_171,76515,Salvador,CE
+172,cust_172,66065,Curitiba,PR
+173,cust_173,71547,Salvador,BA
+174,cust_174,51263,Salvador,GO
+175,cust_175,30455,Curitiba,PR
+176,cust_176,69672,Recife,MG
+177,cust_177,22561,Recife,MG
+178,cust_178,56989,Rio de Janeiro,DF
+179,cust_179,89265,São Paulo,RJ
+180,cust_180,64919,Fortaleza,PE
+181,cust_181,32286,São Paulo,CE
+182,cust_182,58779,Belo Horizonte,BA
+183,cust_183,15805,Rio de Janeiro,RS
+184,cust_184,49810,Curitiba,CE
+185,cust_185,54284,Recife,BA
+186,cust_186,37545,Goiânia,MG
+187,cust_187,31264,Rio de Janeiro,RJ
+188,cust_188,16635,São Paulo,PE
+189,cust_189,84683,Porto Alegre,RS
+190,cust_190,82669,Porto Alegre,MG
+191,cust_191,89959,Goiânia,MG
+192,cust_192,88437,Fortaleza,RS
+193,cust_193,24424,Belo Horizonte,PR
+194,cust_194,22343,Rio de Janeiro,GO
+195,cust_195,58940,Rio de Janeiro,BA
+196,cust_196,26849,Curitiba,BA
+197,cust_197,79327,Porto Alegre,DF
+198,cust_198,47451,Curitiba,DF
+199,cust_199,83980,Belo Horizonte,CE
+200,cust_200,44509,Fortaleza,SP

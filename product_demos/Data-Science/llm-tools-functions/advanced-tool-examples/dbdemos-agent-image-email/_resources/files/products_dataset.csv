@@ -1,0 +1,201 @@
+product_id,product_category_name,product_name_lenght,product_description_lenght,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm
+prod_001,books,16,175,2,4997,93,22,32
+prod_002,books,23,157,5,3266,25,18,24
+prod_003,books,13,185,2,4016,14,30,29
+prod_004,books,30,135,1,2535,21,29,32
+prod_005,books,28,54,5,493,31,14,23
+prod_006,books,5,158,4,387,81,14,37
+prod_007,books,24,108,2,398,38,16,41
+prod_008,books,7,178,1,3486,27,35,26
+prod_009,books,10,137,4,2234,99,27,52
+prod_010,books,20,68,2,3238,37,12,33
+prod_011,books,26,168,2,417,23,40,14
+prod_012,books,20,55,2,2786,83,47,44
+prod_013,books,30,121,4,3021,91,7,57
+prod_014,books,18,69,2,4912,62,24,16
+prod_015,books,23,165,2,3392,12,46,58
+prod_016,books,7,143,1,4085,96,24,16
+prod_017,books,30,193,2,2034,90,32,12
+prod_018,books,21,73,2,2004,52,47,17
+prod_019,books,18,136,2,3205,65,18,14
+prod_020,books,28,131,2,2465,80,19,19
+prod_021,sports equipment,23,128,4,240,68,32,51
+prod_022,sports equipment,30,136,5,3641,67,13,58
+prod_023,sports equipment,16,90,2,840,69,34,54
+prod_024,sports equipment,8,93,2,4801,94,20,27
+prod_025,sports equipment,17,52,3,4136,30,21,54
+prod_026,sports equipment,28,126,1,781,27,6,10
+prod_027,sports equipment,24,120,4,2276,54,17,57
+prod_028,sports equipment,8,52,1,2537,49,41,49
+prod_029,sports equipment,27,151,3,2093,53,25,33
+prod_030,sports equipment,16,79,1,1264,28,15,48
+prod_031,sports equipment,6,154,4,4668,80,18,16
+prod_032,sports equipment,19,159,4,4633,61,32,51
+prod_033,sports equipment,22,117,3,4844,36,26,53
+prod_034,sports equipment,16,52,2,4723,19,45,44
+prod_035,sports equipment,7,84,5,2387,76,29,43
+prod_036,sports equipment,17,103,2,3680,33,34,16
+prod_037,sports equipment,16,146,2,4621,77,38,46
+prod_038,sports equipment,13,146,5,516,24,10,21
+prod_039,sports equipment,6,112,2,3286,18,21,41
+prod_040,sports equipment,14,79,1,4017,30,6,41
+prod_041,cooking items,30,100,4,4722,94,47,59
+prod_042,books,17,96,4,307,12,46,57
+prod_043,furniture,17,165,5,1646,45,15,29
+prod_044,sports equipment,18,190,3,1420,11,41,20
+prod_045,sports equipment,16,121,5,4560,26,50,15
+prod_046,children's clothing,22,161,4,4332,95,33,46
+prod_047,cooking items,13,146,3,1682,25,22,56
+prod_048,office supplies,15,194,4,4898,84,8,49
+prod_049,cooking items,6,123,2,1504,40,48,46
+prod_050,cooking items,29,176,4,1506,65,23,10
+prod_051,electronics,30,96,2,3253,55,9,35
+prod_052,furniture,8,116,3,1755,86,34,27
+prod_053,garden supplies,19,88,4,4345,41,44,42
+prod_054,furniture,23,129,5,289,17,15,44
+prod_055,office supplies,19,115,2,2873,92,9,28
+prod_056,cooking items,19,91,1,4189,80,42,37
+prod_057,garden supplies,8,59,2,4464,69,30,21
+prod_058,sports equipment,21,194,1,3130,32,27,32
+prod_059,sports equipment,22,138,4,4598,58,23,25
+prod_060,books,9,76,1,1037,62,26,14
+prod_061,office supplies,21,173,2,3715,90,49,60
+prod_062,office supplies,13,116,4,699,51,20,60
+prod_063,sports equipment,25,119,1,3953,83,39,21
+prod_064,garden supplies,9,156,1,4528,90,10,20
+prod_065,sports equipment,6,169,4,3022,11,24,18
+prod_066,garden supplies,30,175,1,4406,50,33,47
+prod_067,electronics,29,163,5,780,38,24,33
+prod_068,cooking items,20,50,1,3000,91,49,56
+prod_069,garden supplies,29,66,3,1104,45,42,39
+prod_070,beauty products,9,170,2,4197,87,40,24
+prod_071,garden supplies,26,57,4,4585,59,19,19
+prod_072,electronics,23,117,2,3999,98,39,37
+prod_073,cooking items,20,192,4,2704,44,16,14
+prod_074,office supplies,28,116,2,4340,24,24,30
+prod_075,cooking items,29,182,3,1362,81,47,33
+prod_076,garden supplies,15,66,3,4240,92,8,46
+prod_077,electronics,13,65,2,4641,80,11,53
+prod_078,toys,6,182,3,3038,26,15,18
+prod_079,office supplies,16,196,1,592,58,10,14
+prod_080,electronics,13,181,3,1242,96,30,48
+prod_081,books,25,99,2,3608,44,21,32
+prod_082,children's clothing,16,104,2,4182,34,35,33
+prod_083,cooking items,12,74,1,3834,73,24,29
+prod_084,beauty products,6,94,2,1669,91,36,22
+prod_085,cooking items,6,135,3,1331,40,33,47
+prod_086,cooking items,6,144,1,4347,46,26,42
+prod_087,books,20,179,1,2535,46,17,42
+prod_088,garden supplies,22,147,3,4145,23,46,59
+prod_089,sports equipment,17,166,1,2159,13,30,32
+prod_090,garden supplies,23,133,5,575,37,15,14
+prod_091,toys,28,59,3,666,83,9,42
+prod_092,electronics,28,65,2,3214,29,27,41
+prod_093,cooking items,26,61,3,4540,98,14,52
+prod_094,electronics,8,153,3,966,44,6,16
+prod_095,toys,19,84,3,1014,25,45,49
+prod_096,cooking items,10,114,4,875,72,13,30
+prod_097,children's clothing,7,59,2,4565,28,20,41
+prod_098,beauty products,8,82,2,3062,13,11,31
+prod_099,beauty products,14,122,1,2543,65,5,14
+prod_100,cooking items,7,130,5,2082,98,35,12
+prod_101,toys,23,104,3,2104,70,25,19
+prod_102,children's clothing,11,156,3,2173,20,23,43
+prod_103,books,14,85,1,3868,17,21,33
+prod_104,furniture,7,78,1,3012,41,46,17
+prod_105,sports equipment,20,55,5,2225,100,10,53
+prod_106,office supplies,27,115,2,2600,43,38,11
+prod_107,garden supplies,24,90,4,3623,91,34,10
+prod_108,beauty products,28,104,1,4976,14,34,59
+prod_109,garden supplies,19,197,2,206,30,5,48
+prod_110,electronics,14,194,4,1875,98,30,48
+prod_111,toys,22,155,2,1649,18,34,57
+prod_112,cooking items,13,159,1,591,33,18,53
+prod_113,beauty products,29,138,1,869,71,13,19
+prod_114,books,28,160,5,3738,91,42,22
+prod_115,cooking items,29,145,1,1841,52,49,46
+prod_116,children's clothing,9,115,4,3679,30,11,24
+prod_117,furniture,9,97,1,3176,66,21,58
+prod_118,beauty products,28,174,5,345,25,33,16
+prod_119,electronics,6,97,4,3852,67,35,10
+prod_120,books,20,186,5,4697,36,30,30
+prod_121,beauty products,21,187,4,1253,50,10,14
+prod_122,sports equipment,6,161,3,649,83,42,16
+prod_123,beauty products,16,73,3,1180,66,46,36
+prod_124,books,11,151,2,1745,85,42,60
+prod_125,cooking items,26,179,1,664,65,29,31
+prod_126,beauty products,9,196,1,336,78,29,23
+prod_127,beauty products,21,106,2,2960,48,13,55
+prod_128,furniture,21,153,5,4625,93,36,51
+prod_129,electronics,27,117,4,964,35,28,21
+prod_130,books,16,133,2,3994,89,39,18
+prod_131,children's clothing,21,122,3,3445,86,46,41
+prod_132,sports equipment,20,128,4,4486,72,31,49
+prod_133,books,6,169,3,3525,18,15,38
+prod_134,office supplies,14,194,3,916,30,41,12
+prod_135,office supplies,12,194,5,1851,48,34,16
+prod_136,garden supplies,15,153,2,961,95,28,57
+prod_137,garden supplies,21,120,4,2085,51,31,34
+prod_138,electronics,29,150,3,1141,94,21,17
+prod_139,books,13,150,5,422,83,12,13
+prod_140,furniture,28,55,3,263,71,23,54
+prod_141,sports equipment,7,63,3,4611,21,47,11
+prod_142,office supplies,20,93,1,4407,62,43,18
+prod_143,children's clothing,12,199,4,1665,95,34,43
+prod_144,sports equipment,27,82,4,4999,66,31,57
+prod_145,books,26,196,2,2590,47,10,38
+prod_146,electronics,6,91,5,395,99,24,37
+prod_147,cooking items,18,162,2,3247,61,37,59
+prod_148,sports equipment,20,63,4,1083,67,50,40
+prod_149,furniture,13,57,4,573,100,22,19
+prod_150,garden supplies,30,71,1,3566,40,31,25
+prod_151,children's clothing,7,125,3,2421,90,13,25
+prod_152,furniture,7,200,3,2542,57,7,30
+prod_153,office supplies,15,187,5,4036,14,29,15
+prod_154,office supplies,13,186,2,1699,63,48,25
+prod_155,sports equipment,22,114,4,1147,51,10,15
+prod_156,cooking items,10,105,1,4639,90,35,23
+prod_157,toys,20,80,1,3203,37,19,34
+prod_158,furniture,8,185,5,3580,80,5,22
+prod_159,toys,18,80,5,3676,58,48,33
+prod_160,office supplies,26,174,5,3911,75,34,51
+prod_161,office supplies,20,105,4,871,65,37,60
+prod_162,cooking items,5,114,4,3709,79,32,21
+prod_163,furniture,23,156,3,4718,33,11,32
+prod_164,beauty products,25,138,2,3728,33,27,35
+prod_165,sports equipment,16,160,5,1098,95,45,32
+prod_166,toys,17,140,5,1874,65,21,12
+prod_167,beauty products,14,191,2,4335,63,46,41
+prod_168,garden supplies,14,125,3,4754,76,5,38
+prod_169,sports equipment,17,193,3,3803,61,42,10
+prod_170,cooking items,16,162,5,2915,59,43,12
+prod_171,garden supplies,8,105,2,2549,45,42,10
+prod_172,toys,27,85,5,4865,11,40,55
+prod_173,books,23,181,3,4798,52,28,20
+prod_174,office supplies,5,158,1,3539,98,41,38
+prod_175,electronics,28,76,2,2215,97,49,45
+prod_176,garden supplies,21,102,5,2063,45,18,57
+prod_177,sports equipment,25,123,4,2495,35,11,16
+prod_178,cooking items,14,163,4,901,26,41,50
+prod_179,cooking items,28,143,2,2478,55,20,14
+prod_180,beauty products,15,124,5,4987,28,16,23
+prod_181,furniture,22,101,2,837,64,5,49
+prod_182,garden supplies,11,64,3,618,21,14,38
+prod_183,furniture,29,156,3,4232,21,11,33
+prod_184,beauty products,15,73,1,1503,63,42,12
+prod_185,furniture,9,129,2,2343,43,6,11
+prod_186,furniture,24,74,3,1740,57,5,50
+prod_187,toys,11,153,4,1155,29,29,12
+prod_188,beauty products,28,88,3,290,72,43,59
+prod_189,books,5,152,1,2682,78,40,50
+prod_190,beauty products,26,106,2,999,63,48,43
+prod_191,cooking items,22,111,2,4027,85,39,23
+prod_192,children's clothing,13,191,2,177,40,16,24
+prod_193,cooking items,20,101,1,3182,76,24,20
+prod_194,sports equipment,27,199,5,132,14,49,43
+prod_195,children's clothing,26,110,1,3249,45,21,21
+prod_196,garden supplies,15,156,5,1606,66,12,47
+prod_197,toys,26,60,2,528,67,28,46
+prod_198,furniture,13,124,1,4920,33,29,57
+prod_199,electronics,28,137,2,3223,82,33,52
+prod_200,toys,20,186,4,2319,90,16,32
